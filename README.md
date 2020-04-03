@@ -1,5 +1,3 @@
 # JASIRM
-Just another SIR Modeler for students by a teacher
+Just another SIR Modeler 
 
-Henry C. Encabo
-University of Southeastern Philippines
