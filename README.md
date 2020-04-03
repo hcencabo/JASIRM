@@ -1,2 +1,2 @@
-# R
-This my repository for my R Projects
+# JASIRM
+Just another SIR Modeler made in Shiny
